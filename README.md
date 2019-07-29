@@ -1,6 +1,4 @@
-All files were developed in Python 2.7. and Jupyter was used for developing and running the
-notebooks. The .py files can be accesed using a text editor, such as Atom or notepad++, while
-the .ipynb file need to be opened using Jupyter.
+Python 2.7. 
 
 1. mgfextract_notebook.ipynb
 • It extracts specific subsets from an MGF file by matching the original MGF
